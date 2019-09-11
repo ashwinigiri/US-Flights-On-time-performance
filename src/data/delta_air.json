@@ -1,0 +1,46 @@
+[
+{"airline": "Delta Air",
+        "values": [
+              {"year": "2001", "arrdelay": "10.22", "depdelay": "8.95"}
+			, {"year": "2002", "arrdelay": "10.26", "depdelay": "7.53"}
+			, {"year": "2003", "arrdelay": "8.58", "depdelay": "6.14"}
+			, {"year": "2004", "arrdelay": "12.75", "depdelay": "9.62"}
+			, {"year": "2005", "arrdelay": "12.74", "depdelay": "10.13"}
+			, {"year": "2006", "arrdelay": "12.51", "depdelay": "10.19"}
+			, {"year": "2007", "arrdelay": "12.63", "depdelay": "9.98"}
+			, {"year": "2008", "arrdelay": "13.15", "depdelay": "10.28"}
+			, {"year": "2009", "arrdelay": "11.85", "depdelay": "9.65"}
+			, {"year": "2010", "arrdelay": "12.8", "depdelay": "12.0"}
+			, {"year": "2011", "arrdelay": "10.01", "depdelay": "9.34"}
+			, {"year": "2012", "arrdelay": "8.13", "depdelay": "7.83"}
+			, {"year": "2013", "arrdelay": "9.93", "depdelay": "9.36"}
+			, {"year": "2014", "arrdelay": "9.9", "depdelay": "9.52"}
+			, {"year": "2015", "arrdelay": "9.25", "depdelay": "9.56"}
+			, {"year": "2016", "arrdelay": "9.69", "depdelay": "10.29"}
+			, {"year": "2017", "arrdelay": "10.43", "depdelay": "11.04"}
+			, {"year": "2018", "arrdelay": "11.0", "depdelay": "11.33"}
+        ]
+    },
+	{"airline": "Delta Air",
+        "values": [
+              {"year": "2001", "arrdelay": "8.95"}
+			, {"year": "2002", "arrdelay": "7.53"}
+			, {"year": "2003", "arrdelay": "6.14"}
+			, {"year": "2004", "arrdelay": "9.62"}
+			, {"year": "2005", "arrdelay": "10.13"}
+			, {"year": "2006", "arrdelay": "10.19"}
+			, {"year": "2007", "arrdelay": "9.98"}
+			, {"year": "2008", "arrdelay": "10.28"}
+			, {"year": "2009", "arrdelay": "9.65"}
+			, {"year": "2010", "arrdelay": "12.0"}
+			, {"year": "2011", "arrdelay": "9.34"}
+			, {"year": "2012", "arrdelay": "7.83"}
+			, {"year": "2013", "arrdelay": "9.36"}
+			, {"year": "2014", "arrdelay": "9.52"}
+			, {"year": "2015", "arrdelay": "9.56"}
+			, {"year": "2016", "arrdelay": "10.29"}
+			, {"year": "2017", "arrdelay": "11.04"}
+			, {"year": "2018", "arrdelay": "11.33"}
+        ]
+    }
+]

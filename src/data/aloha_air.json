@@ -1,0 +1,18 @@
+[
+{"airline": "Aloha Air",
+        "values": [
+              {"year": "2001", "arrdelay": "6.8", "depdelay": "5.87"}
+			, {"year": "2006", "arrdelay": "4.33", "depdelay": "3.79"}
+			, {"year": "2007", "arrdelay": "4.11", "depdelay": "4.12"}
+			, {"year": "2008", "arrdelay": "2.99", "depdelay": "2.74"}
+        ]
+    },
+	{"airline": "Aloha Air",
+        "values": [
+              {"year": "2001", "arrdelay": "5.87"}
+			, {"year": "2006", "arrdelay": "3.79"}
+			, {"year": "2007", "arrdelay": "4.12"}
+			, {"year": "2008", "arrdelay": "2.74"}
+        ]
+    }
+    ]

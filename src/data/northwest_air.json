@@ -1,0 +1,27 @@
+[{"airline":"Northwest Airlines",
+        "values": [
+              {"year": "2001", "arrdelay": "9.61", "depdelay": "8.1"}
+			, {"year": "2002", "arrdelay": "10.11", "depdelay": "8.06"}
+			, {"year": "2003", "arrdelay": "8.35", "depdelay": "5.8"}
+			, {"year": "2004", "arrdelay": "10.86", "depdelay": "7.58"}
+			, {"year": "2005", "arrdelay": "13.51", "depdelay": "10.51"}
+			, {"year": "2006", "arrdelay": "12.87", "depdelay": "9.86"}
+			, {"year": "2007", "arrdelay": "16.3", "depdelay": "11.72"}
+			, {"year": "2008", "arrdelay": "13.03", "depdelay": "9.68"}
+			, {"year": "2009", "arrdelay": "11.43", "depdelay": "9.36"}
+        ]
+    },
+	{"airline":"Northwest Airlines",
+        "values": [
+              {"year": "2001", "arrdelay": "8.1"}
+			, {"year": "2002", "arrdelay": "8.06"}
+			, {"year": "2003", "arrdelay": "5.8"}
+			, {"year": "2004", "arrdelay": "7.58"}
+			, {"year": "2005", "arrdelay": "10.51"}
+			, {"year": "2006", "arrdelay": "9.86"}
+			, {"year": "2007", "arrdelay": "11.72"}
+			, {"year": "2008", "arrdelay": "9.68"}
+			, {"year": "2009", "arrdelay": "9.36"}
+        ]
+    }
+]

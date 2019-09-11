@@ -1,0 +1,6 @@
+DelayTypes,AirTran Airways,Alaska Airlines,Aloha Air,America West,American Airlines,ATA Airlines,Continental Air,Delta Air,Endeavor Air,Envoy Air,ExpressJet Airlines,Frontier Airlines,Hawaiian Airlines,Independence Air,JetBlue Airways,Mesa Airlines,Northwest Airlines,PSA Airlines,SkyWest Airlines,Southwest Airlines,Spirit Air,Trans World,United Air,US Airways,Virgin America
+DepDelay,7.54,7.42,5.05,9.82,9.79,7.17,5.92,6.25,6.24,9.37,7.30,8.49,4.70,7.27,8.27,5.79,7.97,5.81,8.73,7.34,6.30,7.51,6.63,6.24,7.46
+CarrierDelay,3.11,3.58,2.97,3.41,2.98,3.74,3.22,3.33,2.92,2.92,3.51,3.21,3.13,3.54,4.08,3.32,3.40,3.55,2.99,3.31,3.58,2.90,3.56,3.27,3.70
+WeatherDelay,5.94,2.80,3.71,3.29,4.21,3.72,6.28,3.38,4.38,2.49,3.42,9.24,4.93,4.09,2.60,3.10,3.83,6.36,4.75,5.23,4.41,2.60,4.17,5.07,3.11
+NASDelay,4.78,2.11,2.33,2.23,2.21,1.73,2.11,1.91,2.34,2.28,2.25,2.30,1.92,1.64,1.72,2.00,2.18,2.24,2.10,1.82,1.65,2.17,1.85,2.09,2.08
+SecurityDelay,2.52,1.02,1.36,0.84,0.95,0.24,0.56,2.05,2.61,3.98,1.49,3.44,2.58,1.76,1.40,3.10,0.28,0.34,0.39,0.81,2.16,2.09,0.65,3.00,1.35

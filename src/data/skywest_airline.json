@@ -1,0 +1,40 @@
+[
+{"airline": "SkyWest Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "8.81", "depdelay": "7.75"}
+			, {"year": "2005", "arrdelay": "9.08", "depdelay": "8.42"}
+			, {"year": "2006", "arrdelay": "12.85", "depdelay": "11.51"}
+			, {"year": "2007", "arrdelay": "13.43", "depdelay": "11.41"}
+			, {"year": "2008", "arrdelay": "12.44", "depdelay": "10.87"}
+			, {"year": "2009", "arrdelay": "10.21", "depdelay": "9.01"}
+			, {"year": "2010", "arrdelay": "11.92", "depdelay": "10.76"}
+			, {"year": "2011", "arrdelay": "11.5", "depdelay": "10.32"}
+			, {"year": "2012", "arrdelay": "10.44", "depdelay": "9.74"}
+			, {"year": "2013", "arrdelay": "11.89", "depdelay": "10.94"}
+			, {"year": "2014", "arrdelay": "13.52", "depdelay": "12.24"}
+			, {"year": "2015", "arrdelay": "12.51", "depdelay": "11.55"}
+			, {"year": "2016", "arrdelay": "12.36", "depdelay": "11.61"}
+			, {"year": "2017", "arrdelay": "15.52", "depdelay": "14.63"}
+			, {"year": "2018", "arrdelay": "16.25", "depdelay": "15.09"}
+        ]
+    },
+	{"airline": "SkyWest Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "7.75"}
+			, {"year": "2005", "arrdelay": "8.42"}
+			, {"year": "2006", "arrdelay": "11.51"}
+			, {"year": "2007", "arrdelay": "11.41"}
+			, {"year": "2008", "arrdelay": "10.87"}
+			, {"year": "2009", "arrdelay": "9.01"}
+			, {"year": "2010", "arrdelay": "10.76"}
+			, {"year": "2011", "arrdelay": "10.32"}
+			, {"year": "2012", "arrdelay": "9.74"}
+			, {"year": "2013", "arrdelay": "10.94"}
+			, {"year": "2014", "arrdelay": "12.24"}
+			, {"year": "2015", "arrdelay": "11.55"}
+			, {"year": "2016", "arrdelay": "11.61"}
+			, {"year": "2017", "arrdelay": "14.63"}
+			, {"year": "2018", "arrdelay": "15.09"}
+        ]
+    }
+]

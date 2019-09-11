@@ -1,0 +1,32 @@
+[
+{"airline": "AirTran Airways",
+        "values": [
+            {"year": "2004", "arrdelay": "14.07", "depdelay": "12.28"}, 
+            {"year": "2005", "arrdelay": "19.29", "depdelay": "17.23"},
+            {"year": "2006", "arrdelay": "15.15", "depdelay": "13.59"}, 
+            {"year": "2007", "arrdelay": "13.41", "depdelay": "11.61"},  
+            {"year": "2008", "arrdelay": "14.15", "depdelay": "11.9"}, 
+            {"year": "2009", "arrdelay": "14.03", "depdelay": "12.28"}, 
+            {"year": "2010", "arrdelay": "10.31", "depdelay": "9.23"}, 
+            {"year": "2011", "arrdelay": "9.27", "depdelay": "7.87"}, 
+            {"year": "2012", "arrdelay": "7.36", "depdelay": "6.25"}, 
+            {"year": "2013", "arrdelay": "11.82", "depdelay": "11.16"}, 
+            {"year": "2014", "arrdelay": "9.91", "depdelay": "10.28"}
+        ]
+    },
+    {"airline": "AirTran Airways",
+        "values": [
+            {"year": "2004", "arrdelay": "12.28"}, 
+            {"year": "2005", "arrdelay": "17.23"},
+            {"year": "2006", "arrdelay": "13.59"}, 
+            {"year": "2007", "arrdelay": "11.61"},  
+            {"year": "2008", "arrdelay": "11.9"}, 
+            {"year": "2009", "arrdelay": "12.28"}, 
+            {"year": "2010", "arrdelay": "9.23"}, 
+            {"year": "2011", "arrdelay": "7.87"}, 
+            {"year": "2012", "arrdelay": "6.25"}, 
+            {"year": "2013", "arrdelay": "11.16"}, 
+            {"year": "2014", "arrdelay": "10.28"}
+        ]
+    }
+    ]

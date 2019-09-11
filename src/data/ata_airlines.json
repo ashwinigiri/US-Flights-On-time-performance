@@ -1,0 +1,16 @@
+[
+{"airline": "ATA Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "12.91", "depdelay": "9.13"}
+			, {"year": "2005", "arrdelay": "11.57", "depdelay": "8.29"}
+			, {"year": "2006", "arrdelay": "20.79", "depdelay": "15.35"}
+        ]
+    },
+	{"airline": "ATA Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "9.13"}
+			, {"year": "2005", "arrdelay": "8.29"}
+			, {"year": "2006", "arrdelay": "15.35"}
+        ]
+    }
+]

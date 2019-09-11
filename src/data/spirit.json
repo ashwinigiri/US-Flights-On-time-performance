@@ -1,0 +1,16 @@
+[
+{"airline": "Spirit Air",
+        "values": [
+            {"year": "2016", "arrdelay": "16.43", "depdelay": "15.93"}
+			, {"year": "2017", "arrdelay": "14.88", "depdelay": "14.56"}
+			, {"year": "2018", "arrdelay": "16.0", "depdelay": "15.27"}
+        ]
+    },
+	{"airline": "Spirit Air",
+        "values": [
+              {"year": "2016", "arrdelay": "15.93"}
+			, {"year": "2017", "arrdelay": "14.56"}
+			, {"year": "2018", "arrdelay": "15.27"}
+        ]
+    }
+]

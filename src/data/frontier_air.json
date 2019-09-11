@@ -1,0 +1,36 @@
+[
+{"airline": "Frontier Airlines",
+        "values": [
+            {"year": "2006", "arrdelay": "9.18", "depdelay": "7.79"},
+            {"year": "2007", "arrdelay": "11.52", "depdelay": "9.85"}, 
+            {"year": "2008", "arrdelay": "10.4", "depdelay": "8.57"}, 
+            {"year": "2009", "arrdelay": "11.52", "depdelay": "9.77"}, 
+            {"year": "2010", "arrdelay": "10.4", "depdelay": "9.48"}, 
+            {"year": "2011", "arrdelay": "11.67", "depdelay": "10.83"}, 
+            {"year": "2012", "arrdelay": "11.94", "depdelay": "10.88"}, 
+            {"year": "2013", "arrdelay": "16.66", "depdelay": "14.88"}, 
+            {"year": "2014", "arrdelay": "17.19", "depdelay": "14.93"}, 
+            {"year": "2015", "arrdelay": "18.85", "depdelay": "17.17"}, 
+            {"year": "2016", "arrdelay": "17.2", "depdelay": "16.8"}, 
+            {"year": "2017", "arrdelay": "15.21", "depdelay": "15.56"}, 
+            {"year": "2018", "arrdelay": "23.24", "depdelay": "23.85"}
+        ]
+    },
+    {"airline": "Frontier Airlines",
+        "values": [
+            {"year": "2006", "arrdelay": "7.79"},
+            {"year": "2007", "arrdelay": "9.85"}, 
+            {"year": "2008", "arrdelay": "8.57"}, 
+            {"year": "2009", "arrdelay": "9.77"}, 
+            {"year": "2010", "arrdelay": "9.48"}, 
+            {"year": "2011", "arrdelay": "10.83"}, 
+            {"year": "2012", "arrdelay": "10.88"}, 
+            {"year": "2013", "arrdelay": "14.88"}, 
+            {"year": "2014", "arrdelay": "14.93"}, 
+            {"year": "2015", "arrdelay": "17.17"}, 
+            {"year": "2016", "arrdelay": "16.8"}, 
+            {"year": "2017", "arrdelay": "15.56"}, 
+            {"year": "2018", "arrdelay": "23.85"}
+        ]
+    }
+    ]

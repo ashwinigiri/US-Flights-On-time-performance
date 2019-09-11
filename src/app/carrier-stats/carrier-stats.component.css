@@ -1,0 +1,15 @@
+.view{
+    display: block;
+}
+.blockview{
+    display: none;
+}
+#bord{
+    border: 1px solid black;
+}
+
+button{
+    font-size:14px;
+    background-color: lightgray;
+    color: black;
+}

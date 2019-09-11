@@ -1,0 +1,22 @@
+[
+{"airline": "Virgin America",
+        "values": [
+            {"year": "2013", "arrdelay": "13.24", "depdelay": "12.88"}
+			, {"year": "2014", "arrdelay": "12.87", "depdelay": "12.27"}
+			, {"year": "2015", "arrdelay": "12.13", "depdelay": "11.51"}
+			, {"year": "2016", "arrdelay": "14.38", "depdelay": "13.52"}
+			, {"year": "2017", "arrdelay": "18.29", "depdelay": "16.33"}
+			, {"year": "2018", "arrdelay": "11.95", "depdelay": "10.9"}
+        ]
+    },
+	{"airline": "Virgin America",
+        "values": [
+              {"year": "2013", "arrdelay": "12.88"}
+			, {"year": "2014", "arrdelay": "12.27"}
+			, {"year": "2015", "arrdelay": "11.51"}
+			, {"year": "2016", "arrdelay": "13.52"}
+			, {"year": "2017", "arrdelay": "16.33"}
+			, {"year": "2018", "arrdelay": "10.9"}
+        ]
+    }
+]

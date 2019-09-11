@@ -1,0 +1,46 @@
+[
+{"airline": "Southwest Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "8.31", "depdelay": "8.38"}, 
+            {"year": "2002", "arrdelay": "8.23", "depdelay": "8.89"}, 
+            {"year": "2003", "arrdelay": "6.67", "depdelay": "6.56"}, 
+            {"year": "2004", "arrdelay": "10.64", "depdelay": "10.71"}, 
+            {"year": "2005", "arrdelay": "9.61", "depdelay": "10.12"},  
+            {"year": "2006", "arrdelay": "10.12", "depdelay": "11.07"},
+            {"year": "2007", "arrdelay": "10.47", "depdelay": "11.35"}, 
+            {"year": "2008", "arrdelay": "10.64", "depdelay": "11.44"}, 
+            {"year": "2009", "arrdelay": "8.77", "depdelay": "10.33"}, 
+            {"year": "2010", "arrdelay": "10.36", "depdelay": "12.2"}, 
+            {"year": "2011", "arrdelay": "10.11", "depdelay": "11.91"}, 
+            {"year": "2012", "arrdelay": "9.04", "depdelay": "10.46"}, 
+            {"year": "2013", "arrdelay": "11.95", "depdelay": "13.37"}, 
+            {"year": "2014", "arrdelay": "14.75", "depdelay": "15.98"}, 
+            {"year": "2015", "arrdelay": "11.15", "depdelay": "12.2"}, 
+            {"year": "2016", "arrdelay": "10.27", "depdelay": "10.76"}, 
+            {"year": "2017", "arrdelay": "11.13", "depdelay": "11.82"}, 
+            {"year": "2018", "arrdelay": "11.98", "depdelay": "13.49"}
+        ]
+    },
+    {"airline": "Southwest Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "8.38"}, 
+            {"year": "2002", "arrdelay": "8.89"}, 
+            {"year": "2003", "arrdelay": "6.56"}, 
+            {"year": "2004", "arrdelay": "10.71"}, 
+            {"year": "2005", "arrdelay": "10.12"},
+            {"year": "2006", "arrdelay": "11.07"}, 
+            {"year": "2007", "arrdelay": "11.35"}, 
+            {"year": "2008", "arrdelay": "11.44"}, 
+            {"year": "2009", "arrdelay": "10.33"}, 
+            {"year": "2010", "arrdelay": "12.2"}, 
+            {"year": "2011", "arrdelay": "11.91"}, 
+            {"year": "2012", "arrdelay": "10.46"}, 
+            {"year": "2013", "arrdelay": "13.37"}, 
+            {"year": "2014", "arrdelay": "15.98"}, 
+            {"year": "2015", "arrdelay": "12.2"}, 
+            {"year": "2016", "arrdelay": "10.76"}, 
+            {"year": "2017", "arrdelay": "11.82"}, 
+            {"year": "2018", "arrdelay": "13.49"}
+        ]
+    }
+]

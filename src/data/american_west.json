@@ -1,0 +1,20 @@
+[
+{"airline": "America West",
+        "values": [
+              {"year": "2001", "arrdelay": "12.4", "depdelay": "10.85"}
+			, {"year": "2002", "arrdelay": "8.69", "depdelay": "8.07"}
+			, {"year": "2003", "arrdelay": "9.21", "depdelay": "7.86"}
+			, {"year": "2004", "arrdelay": "12.37", "depdelay": "10.21"}
+			, {"year": "2005", "arrdelay": "9.47", "depdelay": "8.64"}
+        ]
+    },
+	{"airline": "America West",
+        "values": [
+              {"year": "2001", "arrdelay": "10.85"}
+			, {"year": "2002", "arrdelay": "8.07"}
+			, {"year": "2003", "arrdelay": "7.86"}
+			, {"year": "2004", "arrdelay": "10.21"}
+			, {"year": "2005", "arrdelay": "8.64"}
+        ]
+    }
+]

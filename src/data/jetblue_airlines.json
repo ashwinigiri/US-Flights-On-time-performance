@@ -1,0 +1,40 @@
+[
+{"airline":"JetBlue Airways",
+        "values": [
+              {"year": "2004", "arrdelay": "10.64", "depdelay": "9.67"}
+			, {"year": "2005", "arrdelay": "16.15", "depdelay": "13.18"}
+			, {"year": "2006", "arrdelay": "17.18", "depdelay": "14.18"}
+			, {"year": "2007", "arrdelay": "20.37", "depdelay": "17.5"}
+			, {"year": "2008", "arrdelay": "18.53", "depdelay": "15.91"}
+			, {"year": "2009", "arrdelay": "14.3", "depdelay": "12.85"}
+			, {"year": "2010", "arrdelay": "14.92", "depdelay": "14.34"}
+			, {"year": "2011", "arrdelay": "17.01", "depdelay": "15.56"}
+			, {"year": "2012", "arrdelay": "13.29", "depdelay": "12.83"}
+			, {"year": "2013", "arrdelay": "16.24", "depdelay": "15.05"}
+			, {"year": "2014", "arrdelay": "14.44", "depdelay": "13.4"}
+			, {"year": "2015", "arrdelay": "14.84", "depdelay": "14.54"}
+			, {"year": "2016", "arrdelay": "16.34", "depdelay": "16.31"}
+			, {"year": "2017", "arrdelay": "20.04", "depdelay": "20.22"}
+			, {"year": "2018", "arrdelay": "21.21", "depdelay": "21.2"}
+            ]
+    },
+	{"airline":"JetBlue Airways",
+        "values": [
+              {"year": "2004", "arrdelay": "9.67"}
+			, {"year": "2005", "arrdelay": "13.18"}
+			, {"year": "2006", "arrdelay": "14.18"}
+			, {"year": "2007", "arrdelay": "17.5"}
+			, {"year": "2008", "arrdelay": "15.91"}
+			, {"year": "2009", "arrdelay": "12.85"}
+			, {"year": "2010", "arrdelay": "14.34"}
+			, {"year": "2011", "arrdelay": "15.56"}
+			, {"year": "2012", "arrdelay": "12.83"}
+			, {"year": "2013", "arrdelay": "15.05"}
+			, {"year": "2014", "arrdelay": "13.4"}
+			, {"year": "2015", "arrdelay": "14.54"}
+			, {"year": "2016", "arrdelay": "16.31"}
+			, {"year": "2017", "arrdelay": "20.22"}
+			, {"year": "2018", "arrdelay": "21.2"}
+            ]
+    }
+]

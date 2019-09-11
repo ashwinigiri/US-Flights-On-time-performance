@@ -1,0 +1,40 @@
+[
+{"airline": "Hawaiian Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "3.59", "depdelay": "3.22"}
+			, {"year": "2005", "arrdelay": "3.01", "depdelay": "2.38"}
+			, {"year": "2006", "arrdelay": "4.02", "depdelay": "2.86"}
+			, {"year": "2007", "arrdelay": "4.25", "depdelay": "2.93"}
+			, {"year": "2008", "arrdelay": "5.6", "depdelay": "4.27"}
+			, {"year": "2009", "arrdelay": "4.33", "depdelay": "2.95"}
+			, {"year": "2010", "arrdelay": "4.53", "depdelay": "3.35"}
+			, {"year": "2011", "arrdelay": "4.34", "depdelay": "3.56"}
+			, {"year": "2012", "arrdelay": "4.39", "depdelay": "3.53"}
+			, {"year": "2013", "arrdelay": "4.38", "depdelay": "3.43"}
+			, {"year": "2014", "arrdelay": "4.73", "depdelay": "3.41"}
+			, {"year": "2015", "arrdelay": "6.1", "depdelay": "4.44"}
+			, {"year": "2016", "arrdelay": "4.97", "depdelay": "3.95"}
+			, {"year": "2017", "arrdelay": "6.35", "depdelay": "5.12"}
+			, {"year": "2018", "arrdelay": "6.37", "depdelay": "5.33"}
+        ]
+    },
+	{"airline": "Hawaiian Airlines",
+        "values": [
+              {"year": "2004", "arrdelay": "3.22"}
+			, {"year": "2005", "arrdelay": "2.38"}
+			, {"year": "2006", "arrdelay": "2.86"}
+			, {"year": "2007", "arrdelay": "2.93"}
+			, {"year": "2008", "arrdelay": "4.27"}
+			, {"year": "2009", "arrdelay": "2.95"}
+			, {"year": "2010", "arrdelay": "3.35"}
+			, {"year": "2011", "arrdelay": "3.56"}
+			, {"year": "2012", "arrdelay": "3.53"}
+			, {"year": "2013", "arrdelay": "3.43"}
+			, {"year": "2014", "arrdelay": "3.41"}
+			, {"year": "2015", "arrdelay": "4.44"}
+			, {"year": "2016", "arrdelay": "3.95"}
+			, {"year": "2017", "arrdelay": "5.12"}
+			, {"year": "2018", "arrdelay": "5.33"}
+        ]
+    }
+]

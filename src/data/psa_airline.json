@@ -1,0 +1,24 @@
+[
+{"airline": "PSA Airlines",
+        "values": [
+              {"year": "2005", "arrdelay": "9.88", "depdelay": "8.63"}
+			, {"year": "2006", "arrdelay": "14.15", "depdelay": "11.27"}
+			, {"year": "2007", "arrdelay": "17.81", "depdelay": "14.29"}
+			, {"year": "2008", "arrdelay": "17.26", "depdelay": "13.57"}
+			, {"year": "2009", "arrdelay": "17.52", "depdelay": "13.48"}
+			, {"year": "2010", "arrdelay": "14.79", "depdelay": "12.25"}
+			, {"year": "2018", "arrdelay": "17.0", "depdelay": "16.81"}
+        ]
+    },
+	{"airline": "PSA Airlines",
+        "values": [
+              {"year": "2005", "arrdelay": "8.63"}
+			, {"year": "2006", "arrdelay": "11.27"}
+			, {"year": "2007", "arrdelay": "14.29"}
+			, {"year": "2008", "arrdelay": "13.57"}
+			, {"year": "2009", "arrdelay": "13.48"}
+			, {"year": "2010", "arrdelay": "12.25"}
+			, {"year": "2018", "arrdelay": "16.81"}
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+.countries{
+    fill:lightgray;
+    stroke: black
+}
+
+.countryBorders{
+    fill:none;
+    stroke: black;
+    stroke-linecap: round;
+    stroke-linejoin: round
+}
+
+.bubble{
+    fill:blue;
+    opacity: 0.7;
+    
+}
+
+.hidden{
+    display: none
+}
+
+.graticule {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1px;
+    stroke-opacity: 0.5; }
+
+#symbolTooltip{
+    position: absolute;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;    
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    
+}

@@ -1,0 +1,142 @@
+[
+    {"country": "Australia",
+        "values": [
+		{"year":"2005", "percentage": "63.00"},
+        {"year": "2006", "percentage": "66.00"},
+        {"year":"2007", "percentage": "69.45"},
+        {"year": "2008", "percentage": "71.67"},
+        {"year":"2009", "percentage": "74.25"},
+        {"year": "2010", "percentage": "76.00"},
+        {"year":"2011", "percentage": "79.48"},
+        {"year": "2012", "percentage": "79.00"},
+        {"year":"2013", "percentage": "83.00"},
+		{"year": "2014", "percentage": "84.56"}
+        ]
+    },
+    {"country": "China",
+        "values": [
+            {"year":"2005", "percentage": "8.52"},
+            {"year": "2006", "percentage": "10.52"},
+            {"year":"2007", "percentage": "16.00"},
+            {"year": "2008", "percentage": "22.60"},
+            {"year":"2009", "percentage": "28.90"},
+            {"year": "2010", "percentage": "34.30"},
+            {"year":"2011", "percentage": "38.30"},
+            {"year": "2012", "percentage": "42.30"},
+            {"year":"2013", "percentage": "45.80"},
+            {"year": "2014", "percentage": "49.30"}
+		]
+    },
+    {"country": "Egypt",
+        "values": [
+		{"year":"2005", "percentage": "12.75"},
+        {"year": "2006", "percentage": "13.66"},
+        {"year":"2007", "percentage": "16.03"},
+        {"year": "2008", "percentage": "18.01"},
+        {"year":"2009", "percentage": "20.00"},
+        {"year": "2010", "percentage": "21.60"},
+        {"year":"2011", "percentage": "25.60"},
+        {"year": "2012", "percentage": "26.40"},
+        {"year":"2013", "percentage": "29.40"},
+		{"year": "2014", "percentage": "31.70"}
+        ]
+	},
+    {"country": "France",
+        "values": [
+            {"year":"2005", "percentage": "42.87"},
+            {"year": "2006", "percentage": "46.87"},
+            {"year":"2007", "percentage": "66.09"},
+            {"year": "2008", "percentage": "70.68"},
+            {"year":"2009", "percentage": "71.58"},
+            {"year": "2010", "percentage": "77.28"},
+            {"year":"2011", "percentage": "77.82"},
+            {"year": "2012", "percentage": "81.44"},
+            {"year":"2013", "percentage": "81.92"},
+            {"year": "2014", "percentage": "83.75"}
+		]
+    },
+    {"country": "Kenya",
+        "values": [
+		{"year":"2005", "percentage": "3.10"},
+        {"year": "2006", "percentage": "7.53"},
+        {"year":"2007", "percentage": "7.95"},
+        {"year": "2008", "percentage": "8.67"},
+        {"year":"2009", "percentage": "10.04"},
+        {"year": "2010", "percentage": "14.00"},
+        {"year":"2011", "percentage": "28.00"},
+        {"year": "2012", "percentage": "32.10"},
+        {"year":"2013", "percentage": "39.00"},
+		{"year": "2014", "percentage": "43.40"}
+        ]
+	},
+    {"country": "Morocco",
+        "values": [
+            {"year":"2005", "percentage": "15.08"},
+            {"year": "2006", "percentage": "19.77"},
+            {"year":"2007", "percentage": "21.50"},
+            {"year": "2008", "percentage": "33.10"},
+            {"year":"2009", "percentage": "41.30"},
+            {"year": "2010", "percentage": "52.00"},
+            {"year":"2011", "percentage": "46.11"},
+            {"year": "2012", "percentage": "55.42"},
+            {"year":"2013", "percentage": "56.00"},
+            {"year": "2014", "percentage": "56.80"}
+		]
+    },
+    {"country": "Nigeria",
+        "values": [
+		{"year":"2005", "percentage": "3.55"},
+        {"year": "2006", "percentage": "5.55"},
+        {"year":"2007", "percentage": "6.77"},
+        {"year": "2008", "percentage": "15.86"},
+        {"year":"2009", "percentage": "20.00"},
+        {"year": "2010", "percentage": "24.00"},
+        {"year":"2011", "percentage": "28.43"},
+        {"year": "2012", "percentage": "32.80"},
+        {"year":"2013", "percentage": "38.00"},
+		{"year": "2014", "percentage": "42.68"}
+        ]
+	},
+    {"country": "South Africa",
+        "values": [
+            {"year":"2005", "percentage": "7.49"},
+            {"year": "2006", "percentage": "7.60"},
+            {"year":"2007", "percentage": "8.06"},
+            {"year": "2008", "percentage": "8.43"},
+            {"year":"2009", "percentage": "10.00"},
+            {"year": "2010", "percentage": "24.00"},
+            {"year":"2011", "percentage": "33.97"},
+            {"year": "2012", "percentage": "41.00"},
+            {"year":"2013", "percentage": "46.50"},
+            {"year": "2014", "percentage": "49.00"}
+		]
+    },
+    {"country": "United Kingdom",
+        "values": [
+		{"year":"2005", "percentage": "70.00"},
+        {"year": "2006", "percentage": "68.82"},
+        {"year":"2007", "percentage": "75.09"},
+        {"year": "2008", "percentage": "78.39"},
+        {"year":"2009", "percentage": "83.56"},
+        {"year": "2010", "percentage": "85.00"},
+        {"year":"2011", "percentage": "85.38"},
+        {"year": "2012", "percentage": "87.48"},
+        {"year":"2013", "percentage": "89.84"},
+		{"year": "2014", "percentage": "91.61"}
+        ]
+	},
+    {"country": "United States",
+        "values": [
+            {"year":"2005", "percentage": "67.97"},
+            {"year": "2006", "percentage": "68.93"},
+            {"year":"2007", "percentage": "75.00"},
+            {"year": "2008", "percentage": "74.00"},
+            {"year":"2009", "percentage": "71.00"},
+            {"year": "2010", "percentage": "71.69"},
+            {"year":"2011", "percentage": "69.73"},
+            {"year": "2012", "percentage": "79.3"},
+            {"year":"2013", "percentage": "84.20"},
+            {"year": "2014", "percentage": "87.36"}
+		]
+}   
+]

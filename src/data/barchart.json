@@ -1,0 +1,236 @@
+[
+  {
+    "CARRIER_NAME": "Endeavor Air",
+    "OP_UNIQUE_CARRIER": "9E",
+    "COUNT": 1586680,
+    "DEP_DELAY_NEW": 16534669,
+    "ARR_DELAY_NEW": 19382912,
+    "DEP_DELAY_AVG": 10.42,
+    "ARR_DELAY_AVG": 12.22
+  },
+  {
+    "CARRIER_NAME": "American Airlines",
+    "OP_UNIQUE_CARRIER": "AA",
+    "COUNT": 10131765,
+    "DEP_DELAY_NEW": 128112993,
+    "ARR_DELAY_NEW": 150005584,
+    "DEP_DELAY_AVG": 12.64,
+    "ARR_DELAY_AVG": 14.81
+  },
+  {
+    "CARRIER_NAME": "Alaska Airlines",
+    "OP_UNIQUE_CARRIER": "AS",
+    "COUNT": 2388789,
+    "DEP_DELAY_NEW": 28787769,
+    "ARR_DELAY_NEW": 31099709,
+    "DEP_DELAY_AVG": 12.05,
+    "ARR_DELAY_AVG": 13.02
+  },
+  {
+    "CARRIER_NAME": "JetBlue Airways",
+    "OP_UNIQUE_CARRIER": "B6",
+    "COUNT": 1935325,
+    "DEP_DELAY_NEW": 29274720,
+    "ARR_DELAY_NEW": 34074338,
+    "DEP_DELAY_AVG": 15.13,
+    "ARR_DELAY_AVG": 17.61
+  },
+  {
+    "CARRIER_NAME": "Continental Air",
+    "OP_UNIQUE_CARRIER": "CO",
+    "COUNT": 4792226,
+    "DEP_DELAY_NEW": 56318736,
+    "ARR_DELAY_NEW": 68273216,
+    "DEP_DELAY_AVG": 11.75,
+    "ARR_DELAY_AVG": 14.25
+  },
+  {
+    "CARRIER_NAME": "Independence Air",
+    "OP_UNIQUE_CARRIER": "DH",
+    "COUNT": 690778,
+    "DEP_DELAY_NEW": 8709567,
+    "ARR_DELAY_NEW": 9653740,
+    "DEP_DELAY_AVG": 12.61,
+    "ARR_DELAY_AVG": 13.98
+  },
+  {
+    "CARRIER_NAME": "Delta Air",
+    "OP_UNIQUE_CARRIER": "DL",
+    "COUNT": 8861885,
+    "DEP_DELAY_NEW": 84176949,
+    "ARR_DELAY_NEW": 104763335,
+    "DEP_DELAY_AVG": 9.5,
+    "ARR_DELAY_AVG": 11.82
+  },
+  {
+    "CARRIER_NAME": "ExpressJet Airlines",
+    "OP_UNIQUE_CARRIER": "EV",
+    "COUNT": 3450674,
+    "DEP_DELAY_NEW": 55319314,
+    "ARR_DELAY_NEW": 58792048,
+    "DEP_DELAY_AVG": 16.03,
+    "ARR_DELAY_AVG": 17.04
+  },
+  {
+    "CARRIER_NAME": "Frontier Airlines",
+    "OP_UNIQUE_CARRIER": "F9",
+    "COUNT": 917680,
+    "DEP_DELAY_NEW": 8126310,
+    "ARR_DELAY_NEW": 9553933,
+    "DEP_DELAY_AVG": 8.86,
+    "ARR_DELAY_AVG": 10.41
+  },
+  {
+    "CARRIER_NAME": "AirTran Airways",
+    "OP_UNIQUE_CARRIER": "FL",
+    "COUNT": 2814058,
+    "DEP_DELAY_NEW": 34940027,
+    "ARR_DELAY_NEW": 40215104,
+    "DEP_DELAY_AVG": 12.42,
+    "ARR_DELAY_AVG": 14.29
+  },
+  {
+    "CARRIER_NAME": "Hawaiian Airlines",
+    "OP_UNIQUE_CARRIER": "HA",
+    "COUNT": 627905,
+    "DEP_DELAY_NEW": 2079042,
+    "ARR_DELAY_NEW": 2792543,
+    "DEP_DELAY_AVG": 3.31,
+    "ARR_DELAY_AVG": 4.45
+  },
+  {
+    "CARRIER_NAME": "America West",
+    "OP_UNIQUE_CARRIER": "HP",
+    "COUNT": 1198788,
+    "DEP_DELAY_NEW": 11909176,
+    "ARR_DELAY_NEW": 13630486,
+    "DEP_DELAY_AVG": 9.93,
+    "ARR_DELAY_AVG": 11.37
+  },
+  {
+    "CARRIER_NAME": "Aloha Air",
+    "OP_UNIQUE_CARRIER": "KH",
+    "COUNT": 326667,
+    "DEP_DELAY_NEW": 1356071,
+    "ARR_DELAY_NEW": 1463557,
+    "DEP_DELAY_AVG": 4.15,
+    "ARR_DELAY_AVG": 4.48
+  },
+  {
+    "CARRIER_NAME": "Envoy Air",
+    "OP_UNIQUE_CARRIER": "MQ",
+    "COUNT": 7141023,
+    "DEP_DELAY_NEW": 90082994,
+    "ARR_DELAY_NEW": 104123641,
+    "DEP_DELAY_AVG": 12.61,
+    "ARR_DELAY_AVG": 14.58
+  },
+  {
+    "CARRIER_NAME": "Spirit Air",
+    "OP_UNIQUE_CARRIER": "NK",
+    "COUNT": 8089,
+    "DEP_DELAY_NEW": 155049,
+    "ARR_DELAY_NEW": 172220,
+    "DEP_DELAY_AVG": 19.17,
+    "ARR_DELAY_AVG": 21.29
+  },
+  {
+    "CARRIER_NAME": "Northwest Airlines",
+    "OP_UNIQUE_CARRIER": "NW",
+    "COUNT": 6649073,
+    "DEP_DELAY_NEW": 62333159,
+    "ARR_DELAY_NEW": 82099413,
+    "DEP_DELAY_AVG": 9.37,
+    "ARR_DELAY_AVG": 12.35
+  },
+  {
+    "CARRIER_NAME": "PSA Airlines",
+    "OP_UNIQUE_CARRIER": "OH",
+    "COUNT": 2903270,
+    "DEP_DELAY_NEW": 34004065,
+    "ARR_DELAY_NEW": 41492055,
+    "DEP_DELAY_AVG": 11.71,
+    "ARR_DELAY_AVG": 14.29
+  },
+  {
+    "CARRIER_NAME": "SkyWest Airlines",
+    "OP_UNIQUE_CARRIER": "OO",
+    "COUNT": 6614089,
+    "DEP_DELAY_NEW": 67596451,
+    "ARR_DELAY_NEW": 76932780,
+    "DEP_DELAY_AVG": 10.22,
+    "ARR_DELAY_AVG": 11.63
+  },
+  {
+    "CARRIER_NAME": "Trans World",
+    "OP_UNIQUE_CARRIER": "TW",
+    "COUNT": 504678,
+    "DEP_DELAY_NEW": 4560800,
+    "ARR_DELAY_NEW": 5547882,
+    "DEP_DELAY_AVG": 9.04,
+    "ARR_DELAY_AVG": 10.99
+  },
+  {
+    "CARRIER_NAME": "ATA Airlines",
+    "OP_UNIQUE_CARRIER": "TZ",
+    "COUNT": 249054,
+    "DEP_DELAY_NEW": 2552363,
+    "ARR_DELAY_NEW": 3530743,
+    "DEP_DELAY_AVG": 10.25,
+    "ARR_DELAY_AVG": 14.18
+  },
+  {
+    "CARRIER_NAME": "United Air",
+    "OP_UNIQUE_CARRIER": "UA",
+    "COUNT": 8004536,
+    "DEP_DELAY_NEW": 108362784,
+    "ARR_DELAY_NEW": 123185934,
+    "DEP_DELAY_AVG": 13.54,
+    "ARR_DELAY_AVG": 15.39
+  },
+  {
+    "CARRIER_NAME": "US Airways",
+    "OP_UNIQUE_CARRIER": "US",
+    "COUNT": 7563126,
+    "DEP_DELAY_NEW": 75562864,
+    "ARR_DELAY_NEW": 90383547,
+    "DEP_DELAY_AVG": 9.99,
+    "ARR_DELAY_AVG": 11.95
+  },
+  {
+    "CARRIER_NAME": "Virgin America",
+    "OP_UNIQUE_CARRIER": "VX",
+    "COUNT": 4223,
+    "DEP_DELAY_NEW": 61630,
+    "ARR_DELAY_NEW": 62954,
+    "DEP_DELAY_AVG": 14.59,
+    "ARR_DELAY_AVG": 14.91
+  },
+  {
+    "CARRIER_NAME": "Southwest Airlines",
+    "OP_UNIQUE_CARRIER": "WN",
+    "COUNT": 16382453,
+    "DEP_DELAY_NEW": 173467780,
+    "ARR_DELAY_NEW": 162373744,
+    "DEP_DELAY_AVG": 10.59,
+    "ARR_DELAY_AVG": 9.91
+  },
+  {
+    "CARRIER_NAME": "ExpressJet Airlines",
+    "OP_UNIQUE_CARRIER": "XE",
+    "COUNT": 4891604,
+    "DEP_DELAY_NEW": 62110880,
+    "ARR_DELAY_NEW": 74698787,
+    "DEP_DELAY_AVG": 12.7,
+    "ARR_DELAY_AVG": 15.27
+  },
+  {
+    "CARRIER_NAME": "Mesa Airlines",
+    "OP_UNIQUE_CARRIER": "YV",
+    "COUNT": 2576176,
+    "DEP_DELAY_NEW": 39133204,
+    "ARR_DELAY_NEW": 41897504,
+    "DEP_DELAY_AVG": 15.19,
+    "ARR_DELAY_AVG": 16.26
+  }
+]

@@ -1,0 +1,126 @@
+[
+    {"airline":"Endeavor Air",
+        "values": [
+            {"year": "2008", "arrdelay": "11.43", "depdelay": "9.78"}, 
+            {"year": "2009", "arrdelay": "9.23", "depdelay": "7.68"}, 
+            {"year": "2010", "arrdelay": "11.5", "depdelay": "10.17"}, 
+            {"year": "2013", "arrdelay": "11.76", "depdelay": "10.88"}, 
+            {"year": "2018", "arrdelay": "16.59", "depdelay": "16.13"}
+            ]
+    }, 
+    {"airline":"American Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "11.95", "depdelay": "10.42"}, {"year": "2002", "arrdelay": "9.15", "depdelay": "7.43"}, {"year": "2003", "arrdelay": "10.2", "depdelay": "7.74"}, {"year": "2004", "arrdelay": "15.79", "depdelay": "12.99"}, {"year": "2005", "arrdelay": "13.68", "depdelay": "11.5"}, {"year": "2007", "arrdelay": "19.15", "depdelay": "16.6"}, {"year": "2006", "arrdelay": "14.95", "depdelay": "12.83"}, {"year": "2008", "arrdelay": "17.79", "depdelay": "15.4"}, {"year": "2009", "arrdelay": "13.76", "depdelay": "12.92"}, {"year": "2010", "arrdelay": "11.66", "depdelay": "11.23"}, {"year": "2011", "arrdelay": "12.56", "depdelay": "11.97"}, {"year": "2012", "arrdelay": "13.39", "depdelay": "12.42"}, {"year": "2013", "arrdelay": "13.3", "depdelay": "13.35"}, {"year": "2014", "arrdelay": "14.82", "depdelay": "13.72"}, {"year": "2015", "arrdelay": "12.08", "depdelay": "11.74"}, {"year": "2016", "arrdelay": "13.02", "depdelay": "11.95"}, {"year": "2017", "arrdelay": "12.19", "depdelay": "11.25"}, {"year": "2018", "arrdelay": "14.02", "depdelay": "13.49"}
+            ]
+    }, 
+    {"airline":"Alaska Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "14.15", "depdelay": "11.88"}, {"year": "2002", "arrdelay": "10.51", "depdelay": "9.96"}, {"year": "2003", "arrdelay": "9.18", "depdelay": "8.88"}, {"year": "2004", "arrdelay": "12.68", "depdelay": "12.55"}, {"year": "2005", "arrdelay": "16.87", "depdelay": "16.2"}, {"year": "2007", "arrdelay": "14.92", "depdelay": "13.77"}, {"year": "2006", "arrdelay": "14.23", "depdelay": "12.73"}, {"year": "2008", "arrdelay": "11.55", "depdelay": "10.28"}, {"year": "2009", "arrdelay": "8.78", "depdelay": "7.48"}, {"year": "2010", "arrdelay": "6.57", "depdelay": "5.77"}, {"year": "2011", "arrdelay": "6.47", "depdelay": "5.63"}, {"year": "2012", "arrdelay": "7.05", "depdelay": "6.29"}, {"year": "2013", "arrdelay": "6.91", "depdelay": "5.39"}, {"year": "2014", "arrdelay": "7.6", "depdelay": "6.31"}, {"year": "2015", "arrdelay": "7.5", "depdelay": "6.54"}, {"year": "2016", "arrdelay": "6.84", "depdelay": "5.74"}, {"year": "2017", "arrdelay": "9.24", "depdelay": "7.67"}, {"year": "2018", "arrdelay": "9.01", "depdelay": "7.53"}
+            ]
+    },
+    {"airline":"JetBlue Airways",
+        "values": [
+            {"year": "2004", "arrdelay": "10.64", "depdelay": "9.67"}, {"year": "2005", "arrdelay": "16.15", "depdelay": "13.18"}, {"year": "2007", "arrdelay": "20.37", "depdelay": "17.5"}, {"year": "2006", "arrdelay": "17.18", "depdelay": "14.18"}, {"year": "2008", "arrdelay": "18.53", "depdelay": "15.91"}, {"year": "2009", "arrdelay": "14.3", "depdelay": "12.85"}, {"year": "2010", "arrdelay": "14.92", "depdelay": "14.34"}, {"year": "2011", "arrdelay": "17.01", "depdelay": "15.56"}, {"year": "2012", "arrdelay": "13.29", "depdelay": "12.83"}, {"year": "2013", "arrdelay": "16.24", "depdelay": "15.05"}, {"year": "2014", "arrdelay": "14.44", "depdelay": "13.4"}, {"year": "2015", "arrdelay": "14.84", "depdelay": "14.54"}, {"year": "2016", "arrdelay": "16.34", "depdelay": "16.31"}, {"year": "2017", "arrdelay": "20.04", "depdelay": "20.22"}, {"year": "2018", "arrdelay": "21.21", "depdelay": "21.2"}
+            ]
+    },
+    {"airline":"Continental Air",
+        "values": [
+            {"year": "2001", "arrdelay": "9.93", "depdelay": "7.68"}, {"year": "2002", "arrdelay": "9.05", "depdelay": "5.79"}, {"year": "2003", "arrdelay": "10.04", "depdelay": "6.66"}, {"year": "2004", "arrdelay": "13.24", "depdelay": "9.3"}, {"year": "2005", "arrdelay": "13.82", "depdelay": "10.52"}, {"year": "2007", "arrdelay": "16.38", "depdelay": "14.2"}, {"year": "2006", "arrdelay": "16.47", "depdelay": "13.3"}, {"year": "2008", "arrdelay": "16.4", "depdelay": "15.06"}, {"year": "2009", "arrdelay": "12.86", "depdelay": "12.17"}, {"year": "2010", "arrdelay": "10.25", "depdelay": "9.84"}, {"year": "2011", "arrdelay": "12.46", "depdelay": "11.39"}
+        ]
+    },
+    {"airline":"Independence Air",
+        "values": [
+            {"year": "2004", "arrdelay": "16.35", "depdelay": "15.39"}, {"year": "2005", "arrdelay": "12.39", "depdelay": "10.05"}
+        ]
+    },
+    {"airline": "Delta Air",
+        "values": [
+            {"year": "2001", "arrdelay": "10.22", "depdelay": "8.95"}, {"year": "2002", "arrdelay": "10.26", "depdelay": "7.53"}, {"year": "2003", "arrdelay": "8.58", "depdelay": "6.14"}, {"year": "2004", "arrdelay": "12.75", "depdelay": "9.62"}, {"year": "2005", "arrdelay": "12.74", "depdelay": "10.13"}, {"year": "2007", "arrdelay": "12.63", "depdelay": "9.98"}, {"year": "2006", "arrdelay": "12.51", "depdelay": "10.19"}, {"year": "2008", "arrdelay": "13.15", "depdelay": "10.28"}, {"year": "2009", "arrdelay": "11.85", "depdelay": "9.65"}, {"year": "2010", "arrdelay": "12.8", "depdelay": "12.0"}, {"year": "2011", "arrdelay": "10.01", "depdelay": "9.34"}, {"year": "2012", "arrdelay": "8.13", "depdelay": "7.83"}, {"year": "2013", "arrdelay": "9.93", "depdelay": "9.36"}, {"year": "2014", "arrdelay": "9.9", "depdelay": "9.52"}, {"year": "2015", "arrdelay": "9.25", "depdelay": "9.56"}, {"year": "2016", "arrdelay": "9.69", "depdelay": "10.29"}, {"year": "2017", "arrdelay": "10.43", "depdelay": "11.04"}, {"year": "2018", "arrdelay": "11.0", "depdelay": "11.33"}
+        ]
+    },
+    {"airline":"ExpressJet Airlines",
+        "values": [
+            {"year": "2004", "arrdelay": "11.85", "depdelay": "11.4"}, {"year": "2005", "arrdelay": "15.58", "depdelay": "14.76"}, {"year": "2007", "arrdelay": "21.86", "depdelay": "21.52"}, {"year": "2006", "arrdelay": "19.23", "depdelay": "17.77"}, {"year": "2008", "arrdelay": "16.02", "depdelay": "14.58"}, {"year": "2009", "arrdelay": "17.27", "depdelay": "15.05"}, {"year": "2010", "arrdelay": "13.37", "depdelay": "13.56"}, {"year": "2011", "arrdelay": "16.06", "depdelay": "15.71"}, {"year": "2012", "arrdelay": "15.11", "depdelay": "15.17"}, {"year": "2013", "arrdelay": "17.42", "depdelay": "16.92"}, {"year": "2014", "arrdelay": "17.78", "depdelay": "17.01"}, {"year": "2015", "arrdelay": "13.53", "depdelay": "12.36"}, {"year": "2016", "arrdelay": "14.14", "depdelay": "13.66"}, {"year": "2017", "arrdelay": "17.3", "depdelay": "16.98"}, {"year": "2018", "arrdelay": "16.96", "depdelay": "16.18"}, {"year": "2003", "arrdelay": "10.44", "depdelay": "6.81"}, {"year": "2004", "arrdelay": "13.79", "depdelay": "9.42"}, {"year": "2005", "arrdelay": "14.0", "depdelay": "10.3"}, {"year": "2007", "arrdelay": "16.68", "depdelay": "14.81"}, {"year": "2006", "arrdelay": "16.3", "depdelay": "13.11"}, {"year": "2008", "arrdelay": "16.48", "depdelay": "14.42"}, {"year": "2009", "arrdelay": "13.42", "depdelay": "11.22"}, {"year": "2010", "arrdelay": "12.87", "depdelay": "11.12"}, {"year": "2011", "arrdelay": "15.48", "depdelay": "13.85"}
+        ]
+    },
+    {"airline": "Frontier Airlines",
+        "values": [
+            {"year": "2007", "arrdelay": "11.52", "depdelay": "9.85"}, {"year": "2006", "arrdelay": "9.18", "depdelay": "7.79"}, {"year": "2008", "arrdelay": "10.4", "depdelay": "8.57"}, {"year": "2009", "arrdelay": "11.52", "depdelay": "9.77"}, {"year": "2010", "arrdelay": "10.4", "depdelay": "9.48"}, {"year": "2011", "arrdelay": "11.67", "depdelay": "10.83"}, {"year": "2012", "arrdelay": "11.94", "depdelay": "10.88"}, {"year": "2013", "arrdelay": "16.66", "depdelay": "14.88"}, {"year": "2014", "arrdelay": "17.19", "depdelay": "14.93"}, {"year": "2015", "arrdelay": "18.85", "depdelay": "17.17"}, {"year": "2016", "arrdelay": "17.2", "depdelay": "16.8"}, {"year": "2017", "arrdelay": "15.21", "depdelay": "15.56"}, {"year": "2018", "arrdelay": "23.24", "depdelay": "23.85"}
+        ]
+    },
+    {"airline": "AirTran Airways",
+        "values": [
+            {"year": "2004", "arrdelay": "14.07", "depdelay": "12.28"}, {"year": "2005", "arrdelay": "19.29", "depdelay": "17.23"}, {"year": "2007", "arrdelay": "13.41", "depdelay": "11.61"}, {"year": "2006", "arrdelay": "15.15", "depdelay": "13.59"}, {"year": "2008", "arrdelay": "14.15", "depdelay": "11.9"}, {"year": "2009", "arrdelay": "14.03", "depdelay": "12.28"}, {"year": "2010", "arrdelay": "10.31", "depdelay": "9.23"}, {"year": "2011", "arrdelay": "9.27", "depdelay": "7.87"}, {"year": "2012", "arrdelay": "7.36", "depdelay": "6.25"}, {"year": "2013", "arrdelay": "11.82", "depdelay": "11.16"}, {"year": "2014", "arrdelay": "9.91", "depdelay": "10.28"}
+        ]
+    },
+    {"airline": "Hawaiian Airlines",
+        "values": [
+            {"year": "2004", "arrdelay": "3.59", "depdelay": "3.22"}, {"year": "2005", "arrdelay": "3.01", "depdelay": "2.38"}, {"year": "2007", "arrdelay": "4.25", "depdelay": "2.93"}, {"year": "2006", "arrdelay": "4.02", "depdelay": "2.86"}, {"year": "2008", "arrdelay": "5.6", "depdelay": "4.27"}, {"year": "2009", "arrdelay": "4.33", "depdelay": "2.95"}, {"year": "2010", "arrdelay": "4.53", "depdelay": "3.35"}, {"year": "2011", "arrdelay": "4.34", "depdelay": "3.56"}, {"year": "2012", "arrdelay": "4.39", "depdelay": "3.53"}, {"year": "2013", "arrdelay": "4.38", "depdelay": "3.43"}, {"year": "2014", "arrdelay": "4.73", "depdelay": "3.41"}, {"year": "2015", "arrdelay": "6.1", "depdelay": "4.44"}, {"year": "2016", "arrdelay": "4.97", "depdelay": "3.95"}, {"year": "2017", "arrdelay": "6.35", "depdelay": "5.12"}, {"year": "2018", "arrdelay": "6.37", "depdelay": "5.33"}
+        ]
+    },
+    {"airline": "America West",
+        "values": [
+            {"year": "2001", "arrdelay": "12.4", "depdelay": "10.85"}, {"year": "2002", "arrdelay": "8.69", "depdelay": "8.07"}, {"year": "2003", "arrdelay": "9.21", "depdelay": "7.86"}, {"year": "2004", "arrdelay": "12.37", "depdelay": "10.21"}, {"year": "2005", "arrdelay": "9.47", "depdelay": "8.64"}
+        ]
+    },
+    {"airline": "Aloha Air",
+        "values": [
+            {"year": "2001", "arrdelay": "6.8", "depdelay": "5.87"}, {"year": "2007", "arrdelay": "4.11", "depdelay": "4.12"}, {"year": "2006", "arrdelay": "4.33", "depdelay": "3.79"}, {"year": "2008", "arrdelay": "2.99", "depdelay": "2.74"}
+        ]
+    },
+    {"airline": "Envoy Air",
+        "values": [
+            {"year": "2002", "arrdelay": "10.38", "depdelay": "8.84"}, {"year": "2003", "arrdelay": "10.74", "depdelay": "8.73"}, {"year": "2004", "arrdelay": "15.4", "depdelay": "12.34"}, {"year": "2005", "arrdelay": "12.72", "depdelay": "10.31"}, {"year": "2007", "arrdelay": "17.81", "depdelay": "15.5"}, {"year": "2006", "arrdelay": "15.79", "depdelay": "13.73"}, {"year": "2008", "arrdelay": "15.4", "depdelay": "13.3"}, {"year": "2009", "arrdelay": "12.62", "depdelay": "11.09"}, {"year": "2010", "arrdelay": "12.51", "depdelay": "11.11"}, {"year": "2011", "arrdelay": "12.78", "depdelay": "11.02"}, {"year": "2012", "arrdelay": "10.74", "depdelay": "9.82"}, {"year": "2013", "arrdelay": "16.76", "depdelay": "15.02"}, {"year": "2014", "arrdelay": "16.65", "depdelay": "13.76"}, {"year": "2015", "arrdelay": "14.67", "depdelay": "13.28"}, {"year": "2018", "arrdelay": "13.76", "depdelay": "12.1"}
+        ]
+    },
+    {"airline": "Spirit Air",
+        "values": [
+            {"year": "2016", "arrdelay": "16.43", "depdelay": "15.93"}, {"year": "2017", "arrdelay": "14.88", "depdelay": "14.56"}, {"year": "2018", "arrdelay": "16.0", "depdelay": "15.27"}
+        ]
+    },
+    {"airline":"Northwest Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "9.61", "depdelay": "8.1"}, {"year": "2002", "arrdelay": "10.11", "depdelay": "8.06"}, {"year": "2003", "arrdelay": "8.35", "depdelay": "5.8"}, {"year": "2004", "arrdelay": "10.86", "depdelay": "7.58"}, {"year": "2005", "arrdelay": "13.51", "depdelay": "10.51"}, {"year": "2007", "arrdelay": "16.3", "depdelay": "11.72"}, {"year": "2006", "arrdelay": "12.87", "depdelay": "9.86"}, {"year": "2008", "arrdelay": "13.03", "depdelay": "9.68"}, {"year": "2009", "arrdelay": "11.43", "depdelay": "9.36"}
+        ]
+    },
+    {"airline": "PSA Airlines",
+        "values": [
+            {"year": "2005", "arrdelay": "9.88", "depdelay": "8.63"}, {"year": "2007", "arrdelay": "17.81", "depdelay": "14.29"}, {"year": "2006", "arrdelay": "14.15", "depdelay": "11.27"}, {"year": "2008", "arrdelay": "17.26", "depdelay": "13.57"}, {"year": "2009", "arrdelay": "17.52", "depdelay": "13.48"}, {"year": "2010", "arrdelay": "14.79", "depdelay": "12.25"}, {"year": "2018", "arrdelay": "17.0", "depdelay": "16.81"}
+        ]
+    },
+    {"airline": "SkyWest Airlines",
+        "values": [
+            {"year": "2004", "arrdelay": "8.81", "depdelay": "7.75"}, {"year": "2005", "arrdelay": "9.08", "depdelay": "8.42"}, {"year": "2007", "arrdelay": "13.43", "depdelay": "11.41"}, {"year": "2006", "arrdelay": "12.85", "depdelay": "11.51"}, {"year": "2008", "arrdelay": "12.44", "depdelay": "10.87"}, {"year": "2009", "arrdelay": "10.21", "depdelay": "9.01"}, {"year": "2010", "arrdelay": "11.92", "depdelay": "10.76"}, {"year": "2011", "arrdelay": "11.5", "depdelay": "10.32"}, {"year": "2012", "arrdelay": "10.44", "depdelay": "9.74"}, {"year": "2013", "arrdelay": "11.89", "depdelay": "10.94"}, {"year": "2014", "arrdelay": "13.52", "depdelay": "12.24"}, {"year": "2015", "arrdelay": "12.51", "depdelay": "11.55"}, {"year": "2016", "arrdelay": "12.36", "depdelay": "11.61"}, {"year": "2017", "arrdelay": "15.52", "depdelay": "14.63"}, {"year": "2018", "arrdelay": "16.25", "depdelay": "15.09"}
+        ]
+    },
+    {"airline": "ATA Airlines",
+        "values": [
+            {"year": "2004", "arrdelay": "12.91", "depdelay": "9.13"}, {"year": "2005", "arrdelay": "11.57", "depdelay": "8.29"}, {"year": "2006", "arrdelay": "20.79", "depdelay": "15.35"}
+        ]
+    },
+    {"airline": "United Air",
+        "values": [
+            {"year": "2001", "arrdelay": "13.81", "depdelay": "12.41"}, {"year": "2002", "arrdelay": "9.08", "depdelay": "7.24"}, {"year": "2003", "arrdelay": "9.77", "depdelay": "7.55"}, {"year": "2004", "arrdelay": "13.04", "depdelay": "10.62"}, {"year": "2005", "arrdelay": "13.63", "depdelay": "11.99"}, {"year": "2007", "arrdelay": "18.26", "depdelay": "16.17"}, {"year": "2006", "arrdelay": "16.14", "depdelay": "14.22"}, {"year": "2008", "arrdelay": "17.73", "depdelay": "16.34"}, {"year": "2009", "arrdelay": "11.43", "depdelay": "11.22"}, {"year": "2010", "arrdelay": "8.6", "depdelay": "9.05"}, {"year": "2011", "arrdelay": "11.89", "depdelay": "11.33"}, {"year": "2012", "arrdelay": "13.51", "depdelay": "14.39"}, {"year": "2013", "arrdelay": "12.75", "depdelay": "13.46"}, {"year": "2014", "arrdelay": "14.55", "depdelay": "15.45"}, {"year": "2015", "arrdelay": "14.38", "depdelay": "16.32"}, {"year": "2016", "arrdelay": "12.6", "depdelay": "13.92"}, {"year": "2017", "arrdelay": "12.54", "depdelay": "12.84"}, {"year": "2018", "arrdelay": "15.12", "depdelay": "14.38"}
+        ]
+    },
+    {"airline": "US Airways",
+        "values": [
+            {"year": "2001", "arrdelay": "9.37", "depdelay": "7.9"}, {"year": "2002", "arrdelay": "8.23", "depdelay": "6.62"}, {"year": "2003", "arrdelay": "9.63", "depdelay": "7.1"}, {"year": "2004", "arrdelay": "11.96", "depdelay": "10.21"}, {"year": "2005", "arrdelay": "12.48", "depdelay": "10.74"}, {"year": "2007", "arrdelay": "16.28", "depdelay": "13.82"}, {"year": "2006", "arrdelay": "11.93", "depdelay": "9.97"}, {"year": "2008", "arrdelay": "10.57", "depdelay": "8.81"}, {"year": "2009", "arrdelay": "9.84", "depdelay": "7.28"}, {"year": "2010", "arrdelay": "8.61", "depdelay": "6.83"}, {"year": "2011", "arrdelay": "10.46", "depdelay": "8.27"}, {"year": "2012", "arrdelay": "7.14", "depdelay": "5.86"}, {"year": "2013", "arrdelay": "9.75", "depdelay": "7.68"}, {"year": "2014", "arrdelay": "9.96", "depdelay": "8.31"}, {"year": "2015", "arrdelay": "10.77", "depdelay": "9.09"}
+        ]
+    },
+    {"airline": "Virgin America",
+        "values": [
+            {"year": "2013", "arrdelay": "13.24", "depdelay": "12.88"}, {"year": "2014", "arrdelay": "12.87", "depdelay": "12.27"}, {"year": "2015", "arrdelay": "12.13", "depdelay": "11.51"}, {"year": "2016", "arrdelay": "14.38", "depdelay": "13.52"}, {"year": "2017", "arrdelay": "18.29", "depdelay": "16.33"}, {"year": "2018", "arrdelay": "11.95", "depdelay": "10.9"}
+        ]
+    }, 
+    {"airline": "Southwest Airlines",
+        "values": [
+            {"year": "2001", "arrdelay": "8.31", "depdelay": "8.38"}, {"year": "2002", "arrdelay": "8.23", "depdelay": "8.89"}, {"year": "2003", "arrdelay": "6.67", "depdelay": "6.56"}, {"year": "2004", "arrdelay": "10.64", "depdelay": "10.71"}, {"year": "2005", "arrdelay": "9.61", "depdelay": "10.12"}, {"year": "2007", "arrdelay": "10.47", "depdelay": "11.35"}, {"year": "2006", "arrdelay": "10.12", "depdelay": "11.07"}, {"year": "2008", "arrdelay": "10.64", "depdelay": "11.44"}, {"year": "2009", "arrdelay": "8.77", "depdelay": "10.33"}, {"year": "2010", "arrdelay": "10.36", "depdelay": "12.2"}, {"year": "2011", "arrdelay": "10.11", "depdelay": "11.91"}, {"year": "2012", "arrdelay": "9.04", "depdelay": "10.46"}, {"year": "2013", "arrdelay": "11.95", "depdelay": "13.37"}, {"year": "2014", "arrdelay": "14.75", "depdelay": "15.98"}, {"year": "2015", "arrdelay": "11.15", "depdelay": "12.2"}, {"year": "2016", "arrdelay": "10.27", "depdelay": "10.76"}, {"year": "2017", "arrdelay": "11.13", "depdelay": "11.82"}, {"year": "2018", "arrdelay": "11.98", "depdelay": "13.49"}
+        ]
+    },
+    {"airline": "Mesa Airlines",
+        "values": [
+            {"year": "2006", "arrdelay": "17.34", "depdelay": "16.73"}, {"year": "2008", "arrdelay": "16.97", "depdelay": "15.21"}, {"year": "2009", "arrdelay": "12.98", "depdelay": "11.96"}, {"year": "2010", "arrdelay": "9.49", "depdelay": "8.38"}, {"year": "2011", "arrdelay": "9.63", "depdelay": "8.82"}, {"year": "2012", "arrdelay": "8.62", "depdelay": "7.82"}, {"year": "2013", "arrdelay": "13.7", "depdelay": "12.18"}, {"year": "2018", "arrdelay": "14.37", "depdelay": "13.45"}
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+<hr>
+<div class="container">
+  <h4 align="center">Busiest Airports in the United States</h4>
+  <p align="center" style="color:grey;">The line chart represents busy airports which is determined by the count of inbound and outbound flights of various cities in the US.</p>
+    <svg id="extra" width = "1200" height = "500"></svg>
+    <h4 align="center">Choose a carrier to view it's delay</h4>
+    <p align="center" style="color:grey;">Represents the average arrival and departure delay of the selected carrier in minutes along with a card that contains information about carrier type.</p>
+    <br>
+    <p align="center">
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=endeavor()>Endeavor Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=american()>American Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=alaska()>Alaska Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=jetblue()>JetBlue Airways</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=continental()>Continental Airline</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=delta()>Delta Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=frontier()>Frontier Airlines</button>
+      <br>
+    </p>
+    <p align="center">
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=airtran()>AirTran Airways</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=hawaiian()>Hawaiian Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=americawest()>America West</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=aloha()>Aloha Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=spirit()>Spirit Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=northwest()>Northwest Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=psa()>PSA Airlines</button>
+      <br>
+    </p>
+    <p align = "center">
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=skywest()>SkyWest Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=ata()>ATA Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=united()>United Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=us()>US Airways</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=virgin()>Virgin America</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=southwest()>Southwest Airlines</button>
+      <button type="button" class="btn btn-outline-secondary btn-xs" (click)=mesa()>Mesa Airlines</button>
+    </p>
+
+  <br>
+  <div id="fordisp" class="blockview">
+  <!-- <h1 align="center" style="background-color: antiquewhite;text-align: center;font-family: arial;font-size: 30px;color:blue">Average arrival and departure delay for {{airl_name}}</h1> -->
+  <div>
+      <p align="center" class = "lead" style="background-color: aliceblue;"><font size="3">Please Click on the line carefully and up to the point to select it.</font></p>
+  </div>
+  <div align="right">
+      <div class="row">
+          <div class="col-sm-8">
+              <svg id="south" width = "800" height = "350"></svg>
+          </div>
+          <div class="col-sm-3" id="bord">
+            <table>
+              <tr>
+                <td><br>
+              <div align="left"><h4 style="font-family: arial;
+                font-size: 30px;">{{airl_name}}</h4><p style="font-family: arial;
+  font-size: 10px;">Regional airline</p></div>
+                </td>
+                <td></td>
+                <td>
+              <div id="img">
+                  <img src={{image}} alt="Airline on-time" height="71" width="101">
+              </div>
+            </td>
+            </tr>
+            </table>
+            <hr>
+            <div align="left" style="font-family: arial;
+            font-size: 10px;">
+                <p>{{info}}        <span><a target="_blank" rel="noopener" align="right" href={{wiki}}>Wikipedia.</a></span></p>
+                <p><strong>Headquarters : </strong>{{headquname}}</p>
+                <p><strong>AOC # : </strong>{{AOC}}</p>
+                <p><strong>IATA : </strong>{{IATA}}</p>
+                <p><strong>ICAO : </strong>{{ICAO}}</p>
+                <p><strong>Website : </strong><span><a target="_blank" rel="noopener" align="right" href={{website}}>{{website}}</a></span></p>
+            </div>
+          </div>
+          
+      </div>
+      <br>
+
+  </div>
+  <div>
+      <div>
+          <p align="center" class = "lead" style="background-color: aliceblue;"><font size="3">Cause of Delay</font></p>
+      </div>
+      <div class="row">
+      
+        <div class="col-sm-5">
+          <svg id="chart-area" width="600" height="600"></svg>
+      
+        </div>
+        <div class="col-sm-3"></div>
+        <div class="col-sm-3">
+      
+        <div class="bord">
+          <div class="card">
+            
+            <div class="card-body" style="background-color:white">
+              <h3 class="card-title">Cause of Delay</h3>
+              <p class="card-text">{{card_text}}</p>
+            </div>
+          </div>
+          <div class="legend3"></div>
+        </div>
+      
+        <div class="col-sm-1"></div>
+      </div>
+
+  </div>
+  </div>
+</div>
+
+

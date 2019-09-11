@@ -1,0 +1,30 @@
+<hr>
+<div class="container">
+        <h4 id="barTitle" style="margin-top:20px; margin-bottom: -40px;text-align:center">Select a city from the map to get started</h4><br><br>
+        <p align="center"  style="color:grey;">The dot map on click populates a bar chart that displays aggregated value of departure delay of all the carriers of the selected city. </p>
+        <br>
+    <svg height="600" width="1000" id="symbolMap"></svg>
+    <p class="hidden" id="symbolTooltip">hi</p><br><br>
+    <h4 align="center">Departure delay of various carriers based on selected city.</h4>
+    <p align="center"  style="color:grey;">The departure delays of the carriers can be sorted in ascending and descending and alphabetical order.</p>
+    
+    <svg height="600" width="1000" id="barChart" ></svg>
+    <!-- <div class="row" style="margin:0px">
+        <p style="margin-right:10px">Countries:</p>
+        <button class="btn btn-default" id="allCountries" style="margin-right:10px">All countries</button>
+        <button class="btn btn-default" id="topFive" style="margin-right:10px"> Top 5 countries</button>
+        <button class="btn btn-default" id="bottomFive" style="margin-right:10px"> Bottom 5 countries</button>
+    </div>
+    <br/> -->
+    <div class="row" style="margin:0px">
+        <p style="margin-right:26px;margin-top:8px;">Sort by:</p>
+        <button class="btn btn-default" id="sortAlpha" style="margin-right:10px"> Alphabetical order</button>
+        <button class="btn btn-default" id="sortAsc" style="margin-right:10px"> Ascending order</button>
+        <button class="btn btn-default" id="sortDesc" style="margin-right:10px">Descending order</button>
+    </div>
+    <br/>
+    <!-- <div class="row" style="margin:0px">
+        <p style="margin-right:36px">Reset:</p>
+        <button class="btn btn-default" id="reset">Reset</button>
+    </div> -->
+</div>
